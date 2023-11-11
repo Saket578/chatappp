@@ -1,0 +1,59 @@
+body{
+    background-color:cyan;
+}
+
+#headin1{
+    color:greenyellow;
+    background-color:red;
+}
+
+#Login{
+    background-color:yellow;
+    color:black;
+    width:300px;
+    height:70px;
+    border:red 2px solid;
+    font-size:30px;
+    cursor:pointer;
+}
+
+#user{
+    font-size:50px;
+}
+
+#username{
+    height:70px;
+    width:400px;
+    font-size:40px;
+}
+
+#body2{
+    background-color:aqua;
+}
+
+#txt1{
+    color:blue;
+    font-size:60px;
+}
+
+#user{
+    color:red;
+}
+
+#wlcm{
+    display:flex;
+    flex-direction:column;
+}
+
+#rooms{
+    height:50px;
+    width:80%;
+}
+
+#AddRoomButton{
+    height:50px;
+    width:19.9%;
+    background-color:green;
+    color:yellow;
+    cursor:pointer;
+}
